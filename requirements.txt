@@ -32,3 +32,4 @@ torrentool==1.1.0
 urllib3
 yt_dlp
 bencoding
+flask
